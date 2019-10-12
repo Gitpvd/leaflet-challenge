@@ -12,6 +12,9 @@ The USGS provides earthquake data in a number of different formats, updated ever
 Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
 
   a. Your data markers should reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes should appear larger and darker in color.
+  
   b. Include popups that provide additional information about the earthquake when a marker is clicked.
+  
   c. Create a legend that will provide context for your map data.
+  
   d. Your visualization should look something like the map included in the instructions readme file.
