@@ -1,6 +1,14 @@
 Visualizing Data with Leaflet 
 (Homework 17 # leaflet-challenge)
 
+The files above contain the HTML and javascript code to complete the challenge below. 
+I chose the following data set which only had two point in the US so my map is zoomed out further to display additional points. 
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_month.geojson
+
+I was unable to configure the circle radii to correlate with earthquake magnitude despite several efforts to follow class activities and online leaflet and video tutorials. 
+
+Homework description: 
+
 Your first task is to visualize an earthquake data set.
 
 1. Get your data set
